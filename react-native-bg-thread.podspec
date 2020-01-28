@@ -1,7 +1,6 @@
-
 Pod::Spec.new do |s|
   s.name         = "react-native-bg-thread"
-  s.version      = "1.1.1"
+  s.version      = "1.1.7"
   s.summary      = "react-native-bg-thread"
   s.homepage     = "https://github.com/Blitz-Mobile-Apps/react-native-bg-thread.git"
   s.license      = "MIT"
@@ -17,5 +16,3 @@ Pod::Spec.new do |s|
   #s.dependency "others"
 
 end
-
-  
