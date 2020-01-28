@@ -9,8 +9,7 @@
 #import "react-native-bg-thread.h"
 @implementation RnBgTask
 RCT_EXPORT_MODULE(RnBgTask);
-RCT_EXPORT_METHO
-D(runInBackground:(RCTResponseSenderBlock)callback){
+RCT_EXPORT_METHOD(runInBackground:(RCTResponseSenderBlock)callback){
   NSOperationQueue *q = [[NSOperationQueue alloc] init];
   [q addOperationWithBlock: ^{
     callback(@[]);
