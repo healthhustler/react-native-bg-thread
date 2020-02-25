@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "react-native-bg-thread"
-  s.version      = "1.1.8"
+  s.version      = "1.1.9"
   s.summary      = "react-native-bg-thread"
   s.homepage     = "https://github.com/Blitz-Mobile-Apps/react-native-bg-thread.git"
   s.license      = "MIT"
