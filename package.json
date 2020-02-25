@@ -1,6 +1,6 @@
 {
   "name": "react-native-bg-thread",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Use this to enable multitthreading in your react-native project, supports both ios and android platforms",
   "main": "index.js",
   "scripts": {
