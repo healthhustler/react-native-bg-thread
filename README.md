@@ -56,4 +56,9 @@ import RnBgTask from 'react-native-bg-thread';
 
 ```
 
+License
+----
+
+- [MIT](https://github.com/Blitz-Mobile-Apps/react-native-bg-thread/blob/master/LICENSE.txt)
+
 
